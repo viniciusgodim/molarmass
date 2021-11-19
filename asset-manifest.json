@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/molarmass/static/css/main.86f20313.chunk.css",
-    "main.js": "/molarmass/static/js/main.3648a3a0.chunk.js",
-    "main.js.map": "/molarmass/static/js/main.3648a3a0.chunk.js.map",
+    "main.js": "/molarmass/static/js/main.683dd8de.chunk.js",
+    "main.js.map": "/molarmass/static/js/main.683dd8de.chunk.js.map",
     "runtime-main.js": "/molarmass/static/js/runtime-main.161aae1c.js",
     "runtime-main.js.map": "/molarmass/static/js/runtime-main.161aae1c.js.map",
     "static/js/2.cb967690.chunk.js": "/molarmass/static/js/2.cb967690.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.161aae1c.js",
     "static/js/2.cb967690.chunk.js",
     "static/css/main.86f20313.chunk.css",
-    "static/js/main.3648a3a0.chunk.js"
+    "static/js/main.683dd8de.chunk.js"
   ]
 }
