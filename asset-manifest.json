@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/molarmass/static/css/main.f2bad0da.chunk.css",
+    "main.js": "/molarmass/static/js/main.3648a3a0.chunk.js",
+    "main.js.map": "/molarmass/static/js/main.3648a3a0.chunk.js.map",
+    "runtime-main.js": "/molarmass/static/js/runtime-main.161aae1c.js",
+    "runtime-main.js.map": "/molarmass/static/js/runtime-main.161aae1c.js.map",
+    "static/js/2.cb967690.chunk.js": "/molarmass/static/js/2.cb967690.chunk.js",
+    "static/js/2.cb967690.chunk.js.map": "/molarmass/static/js/2.cb967690.chunk.js.map",
+    "static/js/3.c6f22d4f.chunk.js": "/molarmass/static/js/3.c6f22d4f.chunk.js",
+    "static/js/3.c6f22d4f.chunk.js.map": "/molarmass/static/js/3.c6f22d4f.chunk.js.map",
+    "index.html": "/molarmass/index.html",
+    "static/css/main.f2bad0da.chunk.css.map": "/molarmass/static/css/main.f2bad0da.chunk.css.map",
+    "static/js/2.cb967690.chunk.js.LICENSE.txt": "/molarmass/static/js/2.cb967690.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.161aae1c.js",
+    "static/js/2.cb967690.chunk.js",
+    "static/css/main.f2bad0da.chunk.css",
+    "static/js/main.3648a3a0.chunk.js"
+  ]
+}
