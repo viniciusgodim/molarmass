@@ -4,7 +4,6 @@ import periodic from "./molar.json"
 
 const MoleculeWrapper = () => {
   const dot = (a, b) => a.map((x, i) => a[i] * b[i]).reduce((m, n) => m + n);
-  let groupMass = [0,0,0,0,0]
   let [count,setCount] = useState(0);
   const atomicWeight = periodic.reduce((acc, cur) => ({ ...acc, [cur.Symbol]: cur.AtomicMass }), {})
   const CalculateMolarMass = (molState) => {
@@ -45,7 +44,6 @@ const MoleculeWrapper = () => {
           <label>
           <input type="text"
               onChange={event => {setMoleculeState(event.target.value);
-              groupMass[count]=CalculateMolarMass(event.target.value);
             }
             }
             />
