@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/molarmass/static/css/main.86f20313.chunk.css",
-    "main.js": "/molarmass/static/js/main.0f8cb3a5.chunk.js",
-    "main.js.map": "/molarmass/static/js/main.0f8cb3a5.chunk.js.map",
+    "main.css": "/molarmass/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/molarmass/static/js/main.f1c71d10.chunk.js",
+    "main.js.map": "/molarmass/static/js/main.f1c71d10.chunk.js.map",
     "runtime-main.js": "/molarmass/static/js/runtime-main.161aae1c.js",
     "runtime-main.js.map": "/molarmass/static/js/runtime-main.161aae1c.js.map",
-    "static/js/2.cb967690.chunk.js": "/molarmass/static/js/2.cb967690.chunk.js",
-    "static/js/2.cb967690.chunk.js.map": "/molarmass/static/js/2.cb967690.chunk.js.map",
+    "static/js/2.74faac06.chunk.js": "/molarmass/static/js/2.74faac06.chunk.js",
+    "static/js/2.74faac06.chunk.js.map": "/molarmass/static/js/2.74faac06.chunk.js.map",
     "static/js/3.c6f22d4f.chunk.js": "/molarmass/static/js/3.c6f22d4f.chunk.js",
     "static/js/3.c6f22d4f.chunk.js.map": "/molarmass/static/js/3.c6f22d4f.chunk.js.map",
     "index.html": "/molarmass/index.html",
-    "static/css/main.86f20313.chunk.css.map": "/molarmass/static/css/main.86f20313.chunk.css.map",
-    "static/js/2.cb967690.chunk.js.LICENSE.txt": "/molarmass/static/js/2.cb967690.chunk.js.LICENSE.txt"
+    "static/css/main.8c8b27cf.chunk.css.map": "/molarmass/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.74faac06.chunk.js.LICENSE.txt": "/molarmass/static/js/2.74faac06.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.161aae1c.js",
-    "static/js/2.cb967690.chunk.js",
-    "static/css/main.86f20313.chunk.css",
-    "static/js/main.0f8cb3a5.chunk.js"
+    "static/js/2.74faac06.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f1c71d10.chunk.js"
   ]
 }
